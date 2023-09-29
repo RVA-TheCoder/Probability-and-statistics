@@ -1,0 +1,5 @@
+In this following Statistical test have been performed:
+
+1. KS -test
+2. Q-Q plot test
+3. BoxCoxTransform Test
